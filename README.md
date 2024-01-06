@@ -6,7 +6,7 @@ Welcome to the Web Development Journey project! This repository is a collection 
 
 Contributions
 I welcome contributions and suggestions from the community! If you find any issues, have ideas for improvements, or want to contribute a new project to this repository, please create a pull request or open an issue.
-
+ 
 Acknowledgments
 I would like to express my gratitude to the web development community, online tutorials, and documentation resources that have been instrumental in my learning journey.
 
