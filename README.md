@@ -11,4 +11,4 @@ Acknowledgments
 I would like to express my gratitude to the web development community, online tutorials, and documentation resources that have been instrumental in my learning journey.
 
 Thank you for joining me on my web development journey, and I hope you find these projects informative and inspiring. Happy coding!
-
+ 
